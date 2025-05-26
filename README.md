@@ -6,8 +6,8 @@ This repository contains the source code, datasets, and experimental results fro
 **“Enhancing Operational Safety with Conformal Prediction in Soft Sensors”**  
 Francisco Diniz, Thomás Pinto, Saulo Matos, Jó Ueyama, Eduardo Luz, Gustavo Pessin
 
-📌 **Conference**: IEEE I2MTC 2025 (Instrumentation and Measurement Technology Conference)  
-📍 **Location**: Chemnitz, Germany  
+📌 **Conference**: 20th IFAC Symposium on Control, Optimization and Automation in Mining, Minerals and Metal Processing (MMM 2025)
+📍 **Location**: Lima, Perú
 📅 **Year**: 2025
 
 ---
